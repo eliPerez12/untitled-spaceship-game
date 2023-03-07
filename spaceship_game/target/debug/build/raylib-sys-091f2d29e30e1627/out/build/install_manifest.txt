@@ -1,0 +1,9 @@
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/lib64/libraylib.a
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/include/raylib.h
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/include/rlgl.h
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/include/physac.h
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/include/raymath.h
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/include/raudio.h
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/lib64/pkgconfig/raylib.pc
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/lib64/cmake/raylib/raylib-config-version.cmake
+/home/eliperez/GitHub/untitled-spaceship-game/spaceship_game/target/debug/build/raylib-sys-091f2d29e30e1627/out/lib64/cmake/raylib/raylib-config.cmake
